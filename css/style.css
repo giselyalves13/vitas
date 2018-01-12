@@ -1,0 +1,56 @@
+
+body{
+	background-image: url(http://www.wonderlanddance.co.uk/wp-content/uploads/2016/01/10709281-Silver-background-Stock-Photo-glitter.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+
+}
+nav{
+	background-color: rgba(0,0,0,0.7);
+	position: fixed;
+
+}
+nav a{
+	color: white;
+}
+
+h1{
+	text-align: center;
+	padding-top: 45%;
+	padding-bottom: 30%;
+	font-size: 5em;
+}
+
+header{
+	
+	height: 600px;
+}
+header .btn{
+	border-radius: 50px;
+	margin-bottom: 3%;
+}
+
+h2{
+	margin: 3%;
+	text-align: center;
+}
+
+iframe{
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.escura{
+	background-color: rgba(0,0,0,0.3);
+}
+.card{
+	margin: auto;
+	margin-top: 15%;
+	margin-bottom: 15%;
+	height: 80%;
+
+}
+.navbar-toggler-icon{
+	background-color: white;
+}
